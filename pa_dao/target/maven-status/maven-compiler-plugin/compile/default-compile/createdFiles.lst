@@ -1,5 +1,0 @@
-com\henushang\pa\dao\db\MongoInit.class
-com\henushang\pa\dao\impl\BirthdayInfoDaoImpl.class
-com\henushang\pa\dao\BirthdayInfoDao.class
-com\henushang\pa\dao\BaseDao.class
-com\henushang\pa\dao\db\MongoUtil.class
